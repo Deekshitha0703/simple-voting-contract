@@ -15,7 +15,7 @@ Our vision is to create a fair and transparent democratic system on the blockcha
 - **Accessible Participation**: Anyone with tokens can create proposals and participate in voting
 
 ## Key Features
-![Voting System Features](image.png)
+
 
 ### 🗳️ **Proposal Creation**
 - Simple one-function proposal creation mechanism
@@ -59,7 +59,7 @@ Our vision is to create a fair and transparent democratic system on the blockcha
 
 ## Contract Details
 
-*[Contract details section - to be filled by the developer]*
+
 ![Voting System](image.png)
 ---
 
