@@ -1,0 +1,16 @@
+[package]
+name = "simplevotingcontract"
+version = "1.0.0"
+authors = []
+
+[addresses]
+voting_contract="0xe5add114c65fe3d31302eb70f54c2b401cff0f55943dd9edc11d10977686463a"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
