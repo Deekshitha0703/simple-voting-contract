@@ -41,7 +41,7 @@ module voting_contract::SimpleVoting {
             assert!(vote_record.proposal_owner != proposal_owner, 1); 
         };
 
-        // Borrow the proposal
+      
         let proposal = borrow_global_mut<Proposal>(proposal_owner);
         assert!(proposal.is_active, 2); 
 
